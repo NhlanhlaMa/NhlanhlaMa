@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!!
 
 My name is Nhlanhla Mabasa, and I am a certified full stack software developer interested in upskilling, and exploring new technologies.
 
