@@ -5,11 +5,13 @@ I'm Nhlanhla Mabasa, a software developer with a strong focus on computer vision
 🔭 Current Work
 Developing a Python + OpenCV calibration system for a laser-based shooting simulator
 Integrating real-time interaction with Unity
+
 ⚙️ Technical Skills
 - Languages & Frameworks: Python, C#, .NET
 - Computer Vision & Simulation: OpenCV, Unity
 - Data & Backend: SQL
 - Focused on performance, precision, and real-time processing
+
 🌱 Currently Learning
 - Advancing Full Stack Development skills
 - Exploring scalable architectures and deployment strategies
