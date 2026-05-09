@@ -1,31 +1,21 @@
 Hi there 👋 I'm Nhlanhla Mabasa
-I am a Software Architect and Full-Stack Developer with a passion for building scalable, high-performance applications. I specialize in crafting clean, maintainable code and architecting systems that solve complex technical challenges.
+I am a Software Architect and Full-Stack Developer focused on building high-performance, scalable applications and robust system architectures.
 
-💻 What I Do
-Full-Stack Development: Designing and deploying end-to-end solutions using C#, .NET 8, and modern JavaScript.
+💻 Technical Stack
+Backend: .NET 8, C#, Python, SQL
 
-System Architecture: Building multi-tier ticket management systems and high-performance APIs focused on reliability and speed.
+Frontend: JavaScript, HTML5, CSS3
 
-Performance Engineering: Optimizing real-time data processing, threading, and system-level interactions.
+Specialties: Real-time Systems, API Design, and Performance Optimization
 
-⚙️ Technical Toolkit
-Backend: .NET 8, C#, Python, SQL (Relational Database Design)
+🚀 Key Focus
+Architecting multi-tier enterprise solutions and high-speed data pipelines.
 
-Frontend: JavaScript, CSS3, HTML5 (Mobile-first responsive design)
+Building responsive, mobile-first web applications and professional portfolios.
 
-Tools & Environments: OpenCV (Real-time processing), Git, GitHub Pages, WPF
+Advancing expertise in Azure cloud infrastructure and scalable deployment.
 
-🚀 Projects & Impact
-Ticket Management System: Built a multi-tier assessment platform utilizing .NET 8 best practices.
-
-Professional Portfolio: Developed a responsive, mobile-optimized site to showcase engineering projects.
-
-Real-Time Data Pipelines: Engineered threaded systems for high-speed data transmission via UDP.
-
-🌱 Currently Exploring
-Cloud Infrastructure: Advancing my knowledge in Azure and scalable deployment strategies.
-
-DevOps: Mastering CI/CD pipelines to streamline the software delivery lifecycle.
+Portfolio | LinkedIn
 
 <!--
 **Nhlanhla192/Nhlanhla192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
