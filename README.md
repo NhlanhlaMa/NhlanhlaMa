@@ -1,20 +1,31 @@
-## Hi there 👋
+Hi there 👋 I'm Nhlanhla Mabasa
+I am a Software Architect and Full-Stack Developer with a passion for building scalable, high-performance applications. I specialize in crafting clean, maintainable code and architecting systems that solve complex technical challenges.
 
-I'm Nhlanhla Mabasa, a software developer with a strong focus on computer vision, real-time systems, and interactive applications. I enjoy building practical, high-performance solutions and continuously expanding my skill set by working on challenging projects.
+💻 What I Do
+Full-Stack Development: Designing and deploying end-to-end solutions using C#, .NET 8, and modern JavaScript.
 
-🔭 Current Work
-Developing a Python + OpenCV calibration system for a laser-based shooting simulator
-Integrating real-time interaction with Unity
+System Architecture: Building multi-tier ticket management systems and high-performance APIs focused on reliability and speed.
 
-⚙️ Technical Skills
-- Languages & Frameworks: Python, C#, .NET
-- Computer Vision & Simulation: OpenCV, Unity
-- Data & Backend: SQL
-- Focused on performance, precision, and real-time processing
+Performance Engineering: Optimizing real-time data processing, threading, and system-level interactions.
 
-🌱 Currently Learning
-- Advancing Full Stack Development skills
-- Exploring scalable architectures and deployment strategies
+⚙️ Technical Toolkit
+Backend: .NET 8, C#, Python, SQL (Relational Database Design)
+
+Frontend: JavaScript, CSS3, HTML5 (Mobile-first responsive design)
+
+Tools & Environments: OpenCV (Real-time processing), Git, GitHub Pages, WPF
+
+🚀 Projects & Impact
+Ticket Management System: Built a multi-tier assessment platform utilizing .NET 8 best practices.
+
+Professional Portfolio: Developed a responsive, mobile-optimized site to showcase engineering projects.
+
+Real-Time Data Pipelines: Engineered threaded systems for high-speed data transmission via UDP.
+
+🌱 Currently Exploring
+Cloud Infrastructure: Advancing my knowledge in Azure and scalable deployment strategies.
+
+DevOps: Mastering CI/CD pipelines to streamline the software delivery lifecycle.
 
 <!--
 **Nhlanhla192/Nhlanhla192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
